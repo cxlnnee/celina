@@ -160,7 +160,7 @@ div.gallery img {
 
   <div class="responsive">
     <div class="gallery">
-      <img src="img/profile.jpg" alt="Forest" width="600" height="400">
+      <img src="profile.jpg" alt="Forest" width="600" height="400">
     </div>
   </div>
 
