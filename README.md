@@ -119,7 +119,7 @@ div.gallery img {
                   <!--Header Section-->
                  <div class="header">
                     <div class="overlay">
-                     <img src="img/img5.jpg" alt="profile-picture" width="200px" height="200px"
+                     <img src="img5.jpg" alt="profile-picture" width="200px" height="200px"
                      style="border-radius: 100px; border:2px #ffffff;">
                      <h1 style="font-size: 45px"> Celina Buenaventura</h1>
         <h4>Professional Architect</h4>
@@ -145,7 +145,7 @@ div.gallery img {
   </div>
 
   <div class="about-image">
-    <img src="img/profile.jpg" alt="About-Photo">
+    <img src="profile.jpg" alt="About-Photo">
   </div>
 </div>
  <!--end-->
@@ -154,7 +154,7 @@ div.gallery img {
 <h1 style="text-transform: uppercase;">MY GALLERY</h1>
   <div class="responsive">
       <div class="gallery">
-        <img src="img/aa.jpg" alt="Cinque Terre" width="600" height="400">
+        <img src="aa.jpg" alt="Cinque Terre" width="600" height="400">
       </div>
   </div>
 
@@ -166,25 +166,25 @@ div.gallery img {
 
 <div class="responsive">
   <div class="gallery">
-    <img src="img/img3.jpg" alt="Northern Lights" width="600" height="400">
+    <img src="img3.jpg" alt="Northern Lights" width="600" height="400">
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="img/img4.jpg" alt="Mountains" width="600" height="400">
+    <img src="img4.jpg" alt="Mountains" width="600" height="400">
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="img/img5.jpg" alt="Mountains" width="600" height="400">
+    <img src="img5.jpg" alt="Mountains" width="600" height="400">
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="img/img6.jpg" alt="Mountains" width="600" height="400">
+    <img src="img6.jpg" alt="Mountains" width="600" height="400">
   </div>
     </div>
 </div>
